@@ -1,0 +1,4 @@
+maggi
+water
+salt
+vegetables
